@@ -1,0 +1,38 @@
+body, html {
+height: 100%
+margin: 0;
+padding: 0;
+
+}
+
+header, footer {
+    background: blue
+    height: 260px;
+    width: 100%;
+}
+
+*{
+    box-sizing: border-box:
+}
+
+nav ul {
+    float: left:
+    margin: 0;
+    padding: 0;
+ 
+}
+
+Nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    padding: 0 3em;
+}
+
+nav img {
+    float: left;
+
+
+main {
+    margin: 30px auto;
+    width: 960px
+}

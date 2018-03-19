@@ -1,1 +1,1 @@
-# wirefame-exercise
+# cookie-stand
